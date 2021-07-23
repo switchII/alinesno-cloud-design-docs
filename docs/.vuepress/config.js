@@ -5,7 +5,7 @@ var utils = require('./utils.js')
 var { genNav, getComponentSidebar, deepClone } = utils
 
 module.exports = {
-  title: '技术研发体系',
+  title: '新狐云技术框架',
   description: 'A magical vue admin',
   base: '/alinesno-cloud-design-docs/',
   head: [
