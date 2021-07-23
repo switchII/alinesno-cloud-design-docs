@@ -7,7 +7,7 @@ var { genNav, getComponentSidebar, deepClone } = utils
 module.exports = {
   title: '技术研发体系',
   description: 'A magical vue admin',
-  base: '/framework-docs-templates/',
+  base: '/alinesno-cloud-design-docs/',
   head: [
     [
       'link',
