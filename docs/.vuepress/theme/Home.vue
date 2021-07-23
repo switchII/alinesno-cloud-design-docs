@@ -74,7 +74,7 @@ export default {
   components: { NavLink },
   data() {
     return {
-      title: '服务化引擎框架',
+      title: '技术研发体系',
       featuresAll: [
         {
           title: '面向接口代理的高性能RPC调用',
